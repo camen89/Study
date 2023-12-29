@@ -19,7 +19,9 @@
     コマンドプロンプトで以下のコマンド入力 + Enter
     ```
     curl --version
-    ``` 
+    ```
+  3.`curl` + `半角スペース` + `url` (ex. `curl https://tonari-it.com`)
+
 
 
   
