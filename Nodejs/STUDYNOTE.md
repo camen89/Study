@@ -1,8 +1,9 @@
 ## Node.jsのメモ(備忘録)
-このサイトを参考にした[Zenn記事_Node.jsによるwebアプリケーション作成入門](https://zenn.dev/wkb/books/node-tutorial)
+[Zenn記事_Node.jsによるwebアプリケーション作成入門](https://zenn.dev/wkb/books/node-tutorial)を参考にした
 
 - Node.jsの操作方法  
-  1.`windows` + `R`
+  1.`windows` + `R`  
+  1.ファイル名を指定して実行が表示されるので、検索欄に「node」と入力。
   
 
 
