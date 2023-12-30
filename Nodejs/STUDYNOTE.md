@@ -21,13 +21,16 @@
     curl --version
     ```
   3. `curl` + `半角スペース` + `url` (ex. `curl https://tonari-it.com`)  
-- **MySQLについて**
+- **MySQLのパスの設定**
   1. MySQLのパスの設定  
      コンピュータにプログラムの場所を認識させ、プログラム名で実行可能にする  
   2. `「PC」->「ローカルディスク(C:)」->「Program Files」->「MySQL」->「MySQL Server8.0」->「bin」`の順にフォルダクリック  
   3. パスをコピー  
   4. `「スタートメニュー」-> 「設定」`で「設定の検索」に環境変数と入力。「環境変数の編集」をクリック  
-  5. `Path`の行をクリック→編集→新規→パスをペースト  
+  5. `Path`の行をクリック→編集→新規→パスをペースト
+- **MySQLにログイン**
+  1. MySQLにrootユーザでログインする。コマンドプロンプトで以下のコマンドを実行する。
+     `mysql -u root -p`  
 - **参考記事**   
    [Node.js公式ページ_ダウンロード](https://nodejs.org/en/download/)   
    [MySQL公式ダウンロードページ](https://dev.mysql.com/downloads/file/?id=523568)   
