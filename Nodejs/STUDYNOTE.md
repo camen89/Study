@@ -31,7 +31,7 @@
 - **MySQLにログイン**
   1. MySQLにrootユーザでログインする。コマンドプロンプトで以下のコマンドを実行する。  
      `mysql -u root -p`
-  2. ログアウトのコマンド
+  2. ログアウトのコマンド  
      `mysql> exit`  
 - **参考記事**   
    [Node.js公式ページ_ダウンロード](https://nodejs.org/en/download/)   
