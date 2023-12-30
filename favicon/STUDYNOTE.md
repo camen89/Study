@@ -12,8 +12,7 @@
 
       だけを利用する。
 
-   3. htmlの`<head></head>`内に以下のコードを追加
-
+   3. htmlの`<head></head>`内に以下のコードを追加　　
         ```
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
         
