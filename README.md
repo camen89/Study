@@ -2,11 +2,11 @@
 https://camen89.github.io/Energy-Ikeda/
 ## Pages
 ##### 構造設計の課題で作ったものたち
-- [click](https://camen89.github.io/Mouse-move-redesign/)
-- [thx Newton](https://camen89.github.io/Gravity_page/)
-- [Step TYPING](https://camen89.github.io/StepTYPING/)
-- [CANBAS](https://camen89.github.io/CANBAS/)
-- [Quiz Game](https://camen89.github.io/quizgame/)
+- [click](https://camen89.github.io/Mouse-move-redesign/) 複数のボタンをクリックする際のマウスの軌跡を記録するコンテンツ  
+- [thx Newton](https://camen89.github.io/Gravity_page/) 重力の質感を可視化するコンテンツ  
+- [Step TYPING](https://camen89.github.io/StepTYPING/) デジタルの文字に変化する要素を加えたコンテンツ  
+- [CANBAS](https://camen89.github.io/CANBAS/) シンプルなメモができるコンテンツ  
+- [Quiz Game](https://camen89.github.io/quizgame/) シンプルなクイズゲームができるコンテンツ  
 
 ## study note  
 ##### 備忘録としての役割なので内容は必ずしも完全に正確であるとは限らない  
