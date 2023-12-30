@@ -29,8 +29,10 @@
   4. `「スタートメニュー」-> 「設定」`で「設定の検索」に環境変数と入力。「環境変数の編集」をクリック  
   5. `Path`の行をクリック→編集→新規→パスをペースト
 - **MySQLにログイン**
-  1. MySQLにrootユーザでログインする。コマンドプロンプトで以下のコマンドを実行する。
-     `mysql -u root -p`  
+  1. MySQLにrootユーザでログインする。コマンドプロンプトで以下のコマンドを実行する。  
+     `mysql -u root -p`
+  2. ログアウトのコマンド
+     `mysql> exit`  
 - **参考記事**   
    [Node.js公式ページ_ダウンロード](https://nodejs.org/en/download/)   
    [MySQL公式ダウンロードページ](https://dev.mysql.com/downloads/file/?id=523568)   
