@@ -15,4 +15,4 @@ https://camen89.github.io/Energy-Ikeda/
 
 ---
 #### よくある問題の対処法  
-- [別のプログラムがこのフォルダーまたはファイルを開いているので、操作を完了できません。と出た時の対処法-Qiita記事](https://qiita.com/fuk101/items/a862b89380ae75339f37)
+- [別のプログラムがこのフォルダーまたはファイルを開いているので、操作を完了できません。と出た時の対処法-Qiita記事](https://qiita.com/fuk101/items/a862b89380ae75339f37) [参照](https://github.com/camen89/Energy-Ikeda/blob/main/%E8%A5%BF%E6%B4%8B%E7%BE%8E%E8%A1%93%E5%8F%B2%E6%A6%82%E8%AB%96.pdf)
