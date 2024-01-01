@@ -8,7 +8,7 @@ https://camen89.github.io/Energy-Ikeda/
 - [CANBAS](https://camen89.github.io/CANBAS/) (シンプルなメモができるコンテンツ)    
 - [Quiz Game](https://camen89.github.io/quizgame/) (シンプルなクイズゲームができるコンテンツ)    
 
-## study note  
+## study note(PC)    
 ##### 備忘録としての役割なので内容は必ずしも完全に正確であるとは限らない  
 - [Nodejs](/Nodejs/STUDYNOTE.md)  
 - [favicon](/favicon/STUDYNOTE.md)  
