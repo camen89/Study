@@ -15,7 +15,7 @@ https://camen89.github.io/Energy-Ikeda/
 
 ## study note(Math)  
 #### math  
-- [linear algebra](/linear_algebra/STUDYNOTE.md)
+- [linear algebra](/linearalgebra/STUDYNOTE.md)
 
 ---
 #### よくある問題の対処法  
