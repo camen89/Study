@@ -1,4 +1,4 @@
-## GLSLメモ  
+## GLSL(メモ)  
 
 - **参考サイト**  
   [たぶん最速でUnityのシェーダーでなんか作る](https://note.com/ayaha401/n/n17b0559ec996)  
