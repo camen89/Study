@@ -17,7 +17,7 @@
   以下のコマンドを実行  
   `node -v`  
 
-  ![エビフライトライアングル](https://github.com/camen89/Energy-Ikeda/blob/main/150.150.jpg?raw=true)
+  ![エビフライトライアングル](https://photos.app.goo.gl/jwJDkw3X2gp8wp9a6)
   
 - **curlコマンドの使い方**   
   1. コマンドプロンプトを立ち上げる   
