@@ -1,5 +1,10 @@
 # visit site
 https://camen89.github.io/Energy-Ikeda/
+
+## WORKS  
+##### 作品たち  
+- [works](/WORKS/STUDYNOTE.md)
+
 ## Pages
 ##### 構造設計の課題で作ったものたち
 - [click](https://camen89.github.io/Mouse-move-redesign/) (複数のボタンをクリックする際のマウスの軌跡を記録するコンテンツ)    
