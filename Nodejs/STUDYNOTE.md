@@ -17,7 +17,7 @@
   以下のコマンドを実行  
   `node -v`  
 
-  ![エビフライトライアングル](http://i.imgur.com/Jjwsc.jpg "サンプル")
+  ![エビフライトライアングル](http://i.imgur.com/Jjwsc.jpg)
 - **curlコマンドの使い方**   
   1. コマンドプロンプトを立ち上げる   
   2. Curlのインストールの確認   
