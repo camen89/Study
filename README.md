@@ -1,7 +1,7 @@
 # visit site
 https://camen89.github.io/Energy-Ikeda/
 
-## WORKS  
+## Works  
 ##### 作品たち  
 - [works](/WORKS/STUDYNOTE.md)
 
