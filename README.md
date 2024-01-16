@@ -8,15 +8,19 @@ https://camen89.github.io/Energy-Ikeda/
 - [CANBAS](https://camen89.github.io/CANBAS/) (シンプルなメモができるコンテンツ)    
 - [Quiz Game](https://camen89.github.io/quizgame/) (シンプルなクイズゲームができるコンテンツ)    
 
-## study note(PC)    
+## Study note(PC)    
 ##### 備忘録としての役割なので内容は必ずしも完全に正確であるとは限らない  
 - [Nodejs](/Nodejs/STUDYNOTE.md)  
 - [favicon](/favicon/STUDYNOTE.md)  
 - [GLSL](/GLSL/STUDYNOTE.md)  
 
-## study note(Math)  
+## Study note(Math)  
 #### math  
-- [linearAlgebra](/linearAlgebra/STUDYNOTE.md)
+- [linearAlgebra](/linearAlgebra/STUDYNOTE.md)  
+
+## Books  
+#### 読んだ本の記録  
+- [books](/BOOK/STUDYNOTE.md)  
 
 ---
 #### よくある問題の対処法  
