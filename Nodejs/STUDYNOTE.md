@@ -16,8 +16,6 @@
 - **Node.jsのバージョン確認**  
   以下のコマンドを実行  
   `node -v`  
-
-  ![エビフライトライアングル](https://photos.app.goo.gl/jwJDkw3X2gp8wp9a6)
   
 - **curlコマンドの使い方**   
   1. コマンドプロンプトを立ち上げる   
