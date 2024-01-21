@@ -2,7 +2,8 @@
 読んだ本の記録。気楽に更新。  
 
 - **[ルポ　入管　─絶望の外国人収容施設](https://www.chikumashobo.co.jp/product/9784480073464/)**  
-![ルポ　入管　150*200]()
+![ルポ　入管　150*200](https://github.com/camen89/Energy-Ikeda/blob/main/BOOK/%E3%83%AB%E3%83%9D%20%E5%85%A5%E7%AE%A1%E8%A8%AD.jpg?raw=true)  
+  - 入管内部で起こっていること、難民認定などについてのルポ。こうした分野の他の本をもう少し読んでみたい。
 
 - **[ルポ 技能実習生](https://www.chikumashobo.co.jp/product/9784480073075/)**  
 ![ルポ 技能実習生 横150*縦200](https://github.com/camen89/Energy-Ikeda/blob/main/BOOK/%E3%83%AB%E3%83%9D%20%E6%8A%80%E8%83%BD%E5%AE%9F%E7%BF%92%E7%94%9F.jpg?raw=true)
