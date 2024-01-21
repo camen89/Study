@@ -1,5 +1,5 @@
 ## Book  
-読んだ本の記録。気楽に更新。  
+読んだ本の記録。    
 
 - **[ルポ　入管　─絶望の外国人収容施設](https://www.chikumashobo.co.jp/product/9784480073464/)**  
 ![ルポ　入管　150*200](https://github.com/camen89/Energy-Ikeda/blob/main/BOOK/%E3%83%AB%E3%83%9D%20%E5%85%A5%E7%AE%A1%E8%A8%AD.jpg?raw=true)  
