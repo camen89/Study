@@ -1,5 +1,5 @@
 ## Book  
-読んだ本の記録。(2024/1/21更新)   
+読んだ本の記録。(2024/1/31更新)   
 
 - **[東京ディストピア日記](https://www.kawade.co.jp/np/isbn/9784309029610/)**  
 ![東京ディストピア日記 150*200](https://github.com/camen89/Energy-Ikeda/blob/main/BOOK/%E6%9D%B1%E4%BA%AC%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2%E6%97%A5%E8%A8%98.jpg?raw=true)  
