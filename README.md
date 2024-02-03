@@ -14,7 +14,7 @@ https://camen89.github.io/Energy-Ikeda/
 - [Quiz Game](https://camen89.github.io/quizgame/) (シンプルなクイズゲームができるコンテンツ)    
 
 ## Study note(PC)    
-##### 備忘録としての役割なので内容は必ずしも完全に正確であるとは限らない  
+##### あくまで自分用の備忘録だから中身、信用しちゃだめ  
 - [Nodejs](/Nodejs/STUDYNOTE.md)  
 - [favicon](/favicon/STUDYNOTE.md)  
 - [GLSL](/GLSL/STUDYNOTE.md)  
