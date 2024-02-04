@@ -1,4 +1,4 @@
-## chrome拡張機能(メモ)
+## chrome拡張機能自作(メモ)
 
 - **参考サイト**  
   [Chrome拡張（6）p5.jsで作る，バックグラウンドで動作するChrome拡張](https://takawo.hatenablog.com/entry/2017/11/06/214232)  
