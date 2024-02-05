@@ -11,7 +11,7 @@
              |-manifest.json  
   ```
 
-  - **`.json`ファイルの書き方例**  
+- **`.json`ファイルの書き方例**  
     ```  
     {  
     "name" : "GreenTapeExtension",  
