@@ -9,6 +9,22 @@
   `               |-content.css`  
   `           |-manifest.json`
 
+  - **`.json`ファイルの書き方例**  
+    `{  
+    "name" : "GreenTapeExtension",  
+    "version" : "0.1",  
+    "manifest_version" : 3,  
+    "description" : "chrome extension green tape",  
+    "content_scripts" : [{  
+        "matches" : ["<all_urls>"],  
+        "js" : [  
+            "js/jquery.js",  
+            "js/p5.min.js",  
+            "js/script.js"  
+        ]  
+    }]  
+}`  
+
 - **参考サイト**  
   [Chrome拡張（6）p5.jsで作る，バックグラウンドで動作するChrome拡張](https://takawo.hatenablog.com/entry/2017/11/06/214232)  
   [とほほのChrome拡張機能開発入門](https://www.tohoho-web.com/ex/chrome_extension.html#hello_world)  
