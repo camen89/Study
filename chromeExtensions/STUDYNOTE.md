@@ -1,13 +1,15 @@
 ## chrome拡張機能自作(メモ)
 
 - **拡張機能ファイルの構成**  
-  `○○Extension`  
-  `           |- js`  
-  `           |   |-jquery3.6.0.js`  
-  `           |   |-script.js`  
-  `           |-css`  
-  `               |-content.css`  
-  `           |-manifest.json`
+  ```
+  ○○Extension  
+             |- js    
+             |   |-jquery3.6.0.js    
+             |   |-script.js    
+             |-css    
+                 |-content.css   
+             |-manifest.json  
+  ```
 
   - **`.json`ファイルの書き方例**  
     ```  
