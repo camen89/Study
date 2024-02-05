@@ -6,8 +6,8 @@
   `           |   |-jquery3.6.0.js`  
   `           |   |-script.js`  
   `           |-css`  
-  `               |-content.css`  
-  `           |-manifest.json`
+  `               |-content.css  
+             |-manifest.json`
 
 - **参考サイト**  
   [Chrome拡張（6）p5.jsで作る，バックグラウンドで動作するChrome拡張](https://takawo.hatenablog.com/entry/2017/11/06/214232)  
