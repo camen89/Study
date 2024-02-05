@@ -1,5 +1,11 @@
 ## chrome拡張機能自作(メモ)
 
+- **拡張機能ファイルの構成**  
+  `○○Extension`  
+  `           |- js`  
+  `           |   |-jquery3.6.0.js`  
+  `           |   |-script.js`
+
 - **参考サイト**  
   [Chrome拡張（6）p5.jsで作る，バックグラウンドで動作するChrome拡張](https://takawo.hatenablog.com/entry/2017/11/06/214232)  
   [とほほのChrome拡張機能開発入門](https://www.tohoho-web.com/ex/chrome_extension.html#hello_world)  
