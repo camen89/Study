@@ -10,7 +10,8 @@
   `           |-manifest.json`
 
   - **`.json`ファイルの書き方例**  
-    `{  
+    ```  
+    {  
     "name" : "GreenTapeExtension",  
     "version" : "0.1",  
     "manifest_version" : 3,  
@@ -23,7 +24,8 @@
             "js/script.js"  
         ]  
     }]  
-}`  
+    }
+    ```
 
 - **参考サイト**  
   [Chrome拡張（6）p5.jsで作る，バックグラウンドで動作するChrome拡張](https://takawo.hatenablog.com/entry/2017/11/06/214232)  
