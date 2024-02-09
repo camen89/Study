@@ -2,7 +2,7 @@
 読んだ本の記録。(2024/2/09更新)   
 
 - **[訂正する力](https://publications.asahi.com/ecs/detail/?item_id=24421)**   
-  ![訂正する力](https://github.com/camen89/Energy-Ikeda/blob/main/BOOK/%E8%A8%82%E6%AD%A3%E3%81%99%E3%82%8B%E5%8A%9B.jpg?raw=true)  
+  ![訂正する力](https://github.com/camen89/Energy-Ikeda/blob/main/BOOK/%E8%A8%82%E6%AD%A3%E3%81%99%E3%82%8B%E5%8A%9B.jpg?raw=true)(2.09)   
   - 図書館で借りて読んだ。すごくモヤモヤが解消されたような気がした。  
     美術って訂正の歴史だからこそ、ここまで長く人類の中にあるのかなと思った。
 
