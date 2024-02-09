@@ -18,7 +18,8 @@ https://camen89.github.io/Energy-Ikeda/
 - [Nodejs](/Nodejs/STUDYNOTE.md)  
 - [favicon](/favicon/STUDYNOTE.md)  
 - [GLSL](/GLSL/STUDYNOTE.md)  
-- [chrome Extensions](chromeExtensions/STUDYNOTE.md)
+- [chrome Extensions](chromeExtensions/STUDYNOTE.md)  
+- [openFrameworks](openFrameworks/STUDYNOTE.md)
 
 ## Study note(Math)  
 #### math  
