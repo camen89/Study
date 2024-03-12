@@ -20,7 +20,7 @@ https://camen89.github.io/Energy-Ikeda/
 - [GLSL](/GLSL/STUDYNOTE.md)  
 - [chrome Extensions](chromeExtensions/STUDYNOTE.md)  
 - [openFrameworks](openFrameworks/STUDYNOTE.md)  
--[python](python/STUDYNOTE.md)  
+- [python](python/STUDYNOTE.md)  
 
 ## Study note(Math)  
 #### math  
