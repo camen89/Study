@@ -6,6 +6,7 @@
   2. `conda info -e`と入力。`*`がついている環境が現在の環境  
   3. `conda activate pythonGIS(環境名)`と入力。これにより環境の変更ができる。
 
+
 - **Jupyter notebookで仮想環境を作成する**  
   [仮想環境をJupyterNotebookから作成する](https://starpentagon.net/analytics/conda_env_jupyter_notebook/)
   ##### jupyterのターミナルで実行する    
