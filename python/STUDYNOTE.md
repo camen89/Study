@@ -14,7 +14,10 @@
      `newPythonEn`は仮想環境名  
   2. 仮想環境の有効化  
      `conda activate newPythonEn`  
-     これでできない時は、AnacondaNavigatorのhomeで新しい仮想環境を選択する
+     これでできない時は、AnacondaNavigatorのhomeで新しい仮想環境を選択する。  
+  3. Jupyter notebookのkernelに仮想環境を追加  
+    　- 仮想環境にJupyter Notebookを入れる  
+        `conda install notebook ipykernel`
 
 - NDVI(Nomalized Difference Vezitation Index)について  
   <a href= "https://sorabatake.jp/5192/#:~:text=%E3%80%8CNDWI(Normalized%20Difference%20Water%20Index,%E3%81%8C%E7%9F%A5%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82">参考サイト</a>
