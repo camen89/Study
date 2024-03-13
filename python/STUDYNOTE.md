@@ -8,13 +8,13 @@
 
 - **Jupyter notebookで仮想環境を作成する**  
   [仮想環境をJupyterNotebookから作成する](https://starpentagon.net/analytics/conda_env_jupyter_notebook/)
-  #### jupyterのターミナルで実行する  
-  1. 仮想環境の作成  
-     `conda create -n newPythonEn python=3.8 jupyterlab`
+  ##### jupyterのターミナルで実行する    
+  1. 仮想環境の作成    
+     `conda create -n newPythonEn python=3.8 jupyterlab`  
      `newPythonEn`は仮想環境名  
-  2. 仮想環境の有効化
-     `conda activate newPythonEn`
-     これで
+  2. 仮想環境の有効化  
+     `conda activate newPythonEn`  
+     これでできない時は、AnacondaNavigatorのhomeで新しい仮想環境を選択する
 
 - NDVI(Nomalized Difference Vezitation Index)について  
   <a href= "https://sorabatake.jp/5192/#:~:text=%E3%80%8CNDWI(Normalized%20Difference%20Water%20Index,%E3%81%8C%E7%9F%A5%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82">参考サイト</a>
