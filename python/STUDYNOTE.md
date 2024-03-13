@@ -8,7 +8,7 @@
 
 
 - **Jupyter notebookで仮想環境を作成する**  
-  [仮想環境をJupyterNotebookから作成する](https://starpentagon.net/analytics/conda_env_jupyter_notebook/)
+  [仮想環境をJupyterNotebookから作成する](https://starpentagon.net/analytics/conda_env_jupyter_notebook/)参考。  
   ##### jupyterのターミナルで実行する    
   1. 仮想環境の作成    
      `conda create -n newPythonEn python=3.8 jupyterlab`  
