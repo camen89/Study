@@ -23,7 +23,10 @@ https://camen89.github.io/Energy-Ikeda/
   - シンプルなメモができるコンテンツ  
   - [PAGE](https://camen89.github.io/CANBAS/)  
   - [github](https://github.com/camen89/CANBAS)  
-- [Quiz Game](https://camen89.github.io/quizgame/) (シンプルなクイズゲームができるコンテンツ)    
+- Quiz Game  
+  - シンプルなクイズゲームができるコンテンツ  
+  - [PAGE](https://camen89.github.io/quizgame/)  
+  - [github](https://github.com/camen89/quizgame)
 
 ## Study note   
 ##### あくまで自分用の備忘録だから中身、信用しちゃだめ  
