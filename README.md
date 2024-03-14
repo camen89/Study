@@ -22,10 +22,6 @@ https://camen89.github.io/Energy-Ikeda/
 - [openFrameworks](openFrameworks/STUDYNOTE.md)  
 - [python](python/STUDYNOTE.md)  
 
-## Study note(Math)  
-#### math  
-- [linearAlgebra](/linearAlgebra/STUDYNOTE.md)  
-
 ## Books  
 #### 読んだ本の記録  
 - [books](/BOOK/STUDYNOTE.md)  
