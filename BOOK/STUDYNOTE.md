@@ -1,5 +1,10 @@
 ## Book  
-読んだ本の記録。(2024/2/09更新)   
+読んだ本の記録。(2024/3/15更新)   
+
+- **[人間標本](https://www.kadokawa.co.jp/product/322306000662/)**  
+  ![人間標本](https://github.com/camen89/Energy-Ikeda/blob/main/BOOK/%E4%BA%BA%E9%96%93%E6%A8%99%E6%9C%AC.jpg?raw=true)(3.15)
+  
+  - 一気に読みたいと思い1月初旬に買ったまま放置していて、2月ころになりようやく読み始めた。しかし、なんやかんやとすることがある毎日で気づけば読み始めてから一か月ほどたち、つい先日読み終えた。
 
 - **[訂正する力](https://publications.asahi.com/ecs/detail/?item_id=24421)**   
   ![訂正する力](https://github.com/camen89/Energy-Ikeda/blob/main/BOOK/%E8%A8%82%E6%AD%A3%E3%81%99%E3%82%8B%E5%8A%9B.jpg?raw=true)(2.09)   
