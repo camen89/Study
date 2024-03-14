@@ -7,7 +7,7 @@ https://camen89.github.io/Energy-Ikeda/
 
 ## Pages
 ##### 構造設計の課題で作ったものたち  
-- click  
+- Mouse Move    
   - 複数のボタンをクリックする際のマウスの軌跡を記録するコンテンツ  
   - [PAGE](https://camen89.github.io/Mouse-move-redesign/)
   - [github](https://github.com/camen89/Mouse-move-redesign?tab=readme-ov-file)  
