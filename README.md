@@ -39,7 +39,7 @@ https://camen89.github.io/Energy-Ikeda/
 
 ## Books  
 #### 読んだ本の記録  
-- [books](/BOOK/STUDYNOTE.md)  
+- [Books](/BOOK/STUDYNOTE.md)  
 
 ---
 #### よくある問題の対処法  
