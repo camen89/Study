@@ -34,6 +34,7 @@ https://camen89.github.io/Energy-Ikeda/
 - [favicon](/favicon/STUDYNOTE.md)  
 - [GLSL](/GLSL/STUDYNOTE.md)  
 - [chrome Extensions](chromeExtensions/STUDYNOTE.md)  
+  - 参考[SiteStoryExtension_github](https://github.com/camen89/SiteStoryExtension)  
 - [openFrameworks](openFrameworks/STUDYNOTE.md)  
 - [python](python/STUDYNOTE.md)  
 
