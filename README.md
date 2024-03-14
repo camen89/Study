@@ -19,7 +19,10 @@ https://camen89.github.io/Energy-Ikeda/
   - デジタルの文字に変化する要素を加えたコンテンツ  
   - [PAGE](https://camen89.github.io/StepTYPING/)  
   - [github](https://github.com/camen89/StepTYPING)  
-- [CANBAS](https://camen89.github.io/CANBAS/) (シンプルなメモができるコンテンツ)    
+- CANBAS  
+  - シンプルなメモができるコンテンツ  
+  - [PAGE](https://camen89.github.io/CANBAS/)  
+  - [github](https://github.com/camen89/CANBAS)  
 - [Quiz Game](https://camen89.github.io/quizgame/) (シンプルなクイズゲームができるコンテンツ)    
 
 ## Study note   
