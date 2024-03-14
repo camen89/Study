@@ -15,7 +15,10 @@ https://camen89.github.io/Energy-Ikeda/
   - 重力の質感を可視化するコンテンツ  
   - [PAGE](https://camen89.github.io/Gravity_page/)  
   - [github1](https://github.com/camen89/Gravity_page) [github2](https://github.com/camen89/GRAVITY_inside)  
-- [Step TYPING](https://camen89.github.io/StepTYPING/) (デジタルの文字に変化する要素を加えたコンテンツ)    
+- Step TYPING  
+  - デジタルの文字に変化する要素を加えたコンテンツ  
+  - [PAGE](https://camen89.github.io/StepTYPING/)  
+  - [github](https://github.com/camen89/StepTYPING)  
 - [CANBAS](https://camen89.github.io/CANBAS/) (シンプルなメモができるコンテンツ)    
 - [Quiz Game](https://camen89.github.io/quizgame/) (シンプルなクイズゲームができるコンテンツ)    
 
