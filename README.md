@@ -6,8 +6,11 @@ https://camen89.github.io/Energy-Ikeda/
 - [works_PDF](https://drive.google.com/file/d/1k_CPJFxsxfA0FnG3pekyMBntndXVmKeg/view?usp=drive_link)
 
 ## Pages
-##### 構造設計の課題で作ったものたち
-- [click](https://camen89.github.io/Mouse-move-redesign/) (複数のボタンをクリックする際のマウスの軌跡を記録するコンテンツ)    
+##### 構造設計の課題で作ったものたち  
+- click  
+  - 複数のボタンをクリックする際のマウスの軌跡を記録するコンテンツ  
+  - [PAGE](https://camen89.github.io/Mouse-move-redesign/)
+  - [github](https://github.com/camen89/Mouse-move-redesign?tab=readme-ov-file)  
 - [thx Newton](https://camen89.github.io/Gravity_page/) (重力の質感を可視化するコンテンツ)   
 - [Step TYPING](https://camen89.github.io/StepTYPING/) (デジタルの文字に変化する要素を加えたコンテンツ)    
 - [CANBAS](https://camen89.github.io/CANBAS/) (シンプルなメモができるコンテンツ)    
