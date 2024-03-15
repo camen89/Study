@@ -29,7 +29,7 @@ https://camen89.github.io/Energy-Ikeda/
   - [github](https://github.com/camen89/quizgame)
 
 ## Study note   
-##### あくまで自分用の備忘録だから中身、信用しちゃだめ  
+##### あくまで自分用の備忘録  
 - [Nodejs](/Nodejs/STUDYNOTE.md)  
 - [favicon](/favicon/STUDYNOTE.md)  
 - [GLSL](/GLSL/STUDYNOTE.md)  
