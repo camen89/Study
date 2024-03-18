@@ -1,5 +1,4 @@
-visit site
-https://camen89.github.io/Energy-Ikeda/
+[Hello](https://camen89.github.io/Energy-Ikeda/)
 
 ![photo](https://github.com/camen89/Energy-Ikeda/blob/main/EnergyIkedaPhoto/Energy.jpg?raw=true)
 　　[X_account](https://twitter.com/Inccom3)　　[Instagram_account](https://www.instagram.com/i.n.c.c.o.m/)
