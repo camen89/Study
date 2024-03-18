@@ -1,6 +1,8 @@
 visit site
 https://camen89.github.io/Energy-Ikeda/
 
+![EnergyIkeda](https://github.com/camen89/Energy-Ikeda/blob/main/EnergyIkedaPhoto/IMG_6615_jpg.jpg?raw=true)
+
 ## Works  
 ##### 作品たち  
 - [works_PDF](https://drive.google.com/file/d/1k_CPJFxsxfA0FnG3pekyMBntndXVmKeg/view?usp=drive_link)
