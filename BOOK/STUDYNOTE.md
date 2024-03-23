@@ -1,7 +1,7 @@
 ## Book  
 読んだ本の記録。(2024/3/23更新)  
 
-- **[レイシズムとは何か](https://www.chikumashobo.co.jp/product/9784480073532/)**
+- **[レイシズムとは何か](https://www.chikumashobo.co.jp/product/9784480073532/)**  
   ![レイシズムとは何か](https://github.com/camen89/Energy-Ikeda/blob/main/BOOK/%E3%83%AC%E3%82%A4%E3%82%B7%E3%82%BA%E3%83%A0%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B.jpg?raw=true)(3.23)
 
   - 社会学のレポートを書くためにこの本を含め計三冊の本を買ったが結局読み終わらず、必然的にレポートも書き終わらず、単位も落とし、、、今日、ついに読み終えた。
