@@ -1,6 +1,6 @@
 [Hello](https://camen89.github.io/Iwamoto/)
 
-　　[X_account](https://twitter.com/Inccom3)　　[Instagram_account](https://www.instagram.com/i.n.c.c.o.m/)
+　　[X_account](https://twitter.com/Energy_Ikeda)　　[Instagram_account](https://www.instagram.com/iwamoto_m_/)
 
 ## Works  
 ##### 作品たち  
