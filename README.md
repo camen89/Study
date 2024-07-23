@@ -1,6 +1,6 @@
-[Hello](https://camen89.github.io/Energy-Ikeda/)
+[Hello](https://camen89.github.io/Iwamoto_page/)
 
-![photo](https://github.com/camen89/Energy-Ikeda/blob/main/EnergyIkedaPhoto/Energy.jpg?raw=true)
+![photo](https://github.com/camen89/Iwamoto_page/blob/main/EnergyIkedaPhoto/Energy.jpg?raw=true)
 　　[X_account](https://twitter.com/Inccom3)　　[Instagram_account](https://www.instagram.com/i.n.c.c.o.m/)
 
 ## Works  
