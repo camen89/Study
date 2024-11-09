@@ -9,11 +9,12 @@
 ## Pages
 ##### 構造設計の課題で作ったものたち  
 
-<details>- Mouse Move    
+<- Mouse Move>    
   - 複数のボタンをクリックする際のマウスの軌跡を記録するコンテンツ  
   - [PAGE](https://camen89.github.io/Mouse-move-redesign/)
   - [github](https://github.com/camen89/Mouse-move-redesign?tab=readme-ov-file)  
 </details>
+
 - thx Newton  
   - 重力の質感を可視化するコンテンツ  
   - [PAGE](https://camen89.github.io/Gravity_page/)  
