@@ -1,6 +1,6 @@
 [Hello](https://camen89.github.io/Iwamoto/)
 
-　　[X_account](https://twitter.com/Energy_Ikeda)　　[Instagram_account](https://www.instagram.com/iwamoto_m_/)
+　　[Twitter](https://x.com/iwamoto_m_)　　[Instagram](https://www.instagram.com/iwamoto_m_/)　　[Spotify](https://open.spotify.com/show/69VSK8YuGDbb5NWwXHtzA8?si=36872e6c79fa40f3)
 
 ## Works  
 ##### 作品たち  
