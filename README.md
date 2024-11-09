@@ -4,7 +4,7 @@
 
 ## Works  
 ##### 作品たち  
-- [works_PDF](https://drive.google.com/file/d/1k_CPJFxsxfA0FnG3pekyMBntndXVmKeg/view?usp=drive_link)
+- coming soon ...
 
 ## Pages
 ##### 構造設計の課題で作ったものたち  
