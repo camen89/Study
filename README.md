@@ -16,14 +16,20 @@
   - [github](https://github.com/camen89/Mouse-move-redesign?tab=readme-ov-file)  
 </details>
 
-- thx Newton  
+<details><summary>thx Newton</summary>
+  
   - 重力の質感を可視化するコンテンツ  
   - [PAGE](https://camen89.github.io/Gravity_page/)  
   - [github1](https://github.com/camen89/Gravity_page) [github2](https://github.com/camen89/GRAVITY_inside)  
-- Step TYPING  
+</details>
+
+<details><summary>Step TYPING</summary>
+  
   - デジタルの文字に変化する要素を加えたコンテンツ  
   - [PAGE](https://camen89.github.io/StepTYPING/)  
   - [github](https://github.com/camen89/StepTYPING)  
+</details>
+  
 - CANBAS  
   - シンプルなメモができるコンテンツ  
   - [PAGE](https://camen89.github.io/CANBAS/)  
