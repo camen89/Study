@@ -17,10 +17,11 @@
 </details>
 
 <details><summary>thx Newton</summary>
+
   
   - 重力の質感を可視化するコンテンツ  
-  # [PAGE](https://camen89.github.io/Gravity_page/)  
-  # [github1](https://github.com/camen89/Gravity_page) [github2](https://github.com/camen89/GRAVITY_inside)  
+  - [PAGE](https://camen89.github.io/Gravity_page/)  
+  - [github1](https://github.com/camen89/Gravity_page) [github2](https://github.com/camen89/GRAVITY_inside)  
 </details>
 
 <details><summary>Step TYPING</summary>
